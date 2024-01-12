@@ -11,7 +11,7 @@ import SwiftUI
 struct WordCatchingJournalApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AppRootView()
         }
     }
 }
